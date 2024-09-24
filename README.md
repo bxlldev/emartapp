@@ -1,1 +1,1 @@
-# emart-app
+# emart-app (micro-services application project)
